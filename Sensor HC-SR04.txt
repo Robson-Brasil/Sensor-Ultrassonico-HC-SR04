@@ -1,0 +1,14 @@
+Especificações Do HC-SR04
+O sensor HC-SR04 é composto por três partes principais para o seu funcionamento:
+Transmissor Ultrassônico — Emite as ondas ultrassônicas que serão refletidas pelos obstáculos.
+Receptor — Identifica o eco do sinal emitido pelo transmissor.
+Circuito Controlador — Controla o conjunto transmissor/receptor, calcula o tempo entre a emissão e recepção do sinal.
+As principais especificações do HC-SR04 estão listadas abaixo:
+Tensão de trabalho: 5Vcc
+Corrente de repouso: <2mA
+Corrente de trabalho: 15mA
+Distância de detecção: 2cm - 400cm
+Resolução: 0,3cm
+Ângulo efetivo: <15°
+Ângulo de medição: 30°
+Largura do pulso de entrada do acionador: 10µS 
